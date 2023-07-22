@@ -1,13 +1,25 @@
 * {
     line-height: 1.5;
     font-family: Arial, sans-serif;
+    text-align: center;
 }
 
 .title_page {
     text-align: center;
     background-color: darksalmon;
+    
 }
 
-.title_page, a {
+.title_page a {
     text-decoration: none;
+    background-color: darksalmon;
+}
+
+.page-lists li {
+    text-align: left;
+}
+
+.homepage-lists li {
+    text-align: center;
+    list-style: none;
 }
